@@ -24,29 +24,29 @@
 <v t="leo.20181029094538.2" a="E"><vh>封面投影片</vh>
 <v t="leo.20181029094538.3"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181029094538.4" a="E"><vh>W1</vh>
-<v t="leo.20181029094538.5"><vh>W1內容</vh></v>
+<v t="leo.20181029094538.4" a="E"><vh>W10</vh>
+<v t="leo.20181029094538.5"><vh>W10內容</vh></v>
 </v>
-<v t="leo.20181029094538.6" a="E"><vh>W2</vh>
-<v t="leo.20181029094538.7"><vh>W2內容</vh></v>
+<v t="leo.20181029094538.6" a="E"><vh>W11</vh>
+<v t="leo.20181029094538.7"><vh>W11內容</vh></v>
 </v>
-<v t="leo.20181029094538.8" a="E"><vh>W3</vh>
-<v t="leo.20181029094538.9"><vh>W3內容</vh></v>
+<v t="leo.20181029094538.8" a="E"><vh>W12</vh>
+<v t="leo.20181029094538.9"><vh>W12內容</vh></v>
 </v>
-<v t="leo.20181029094538.10" a="E"><vh>W4</vh>
-<v t="leo.20181029094538.11"><vh>W4內容</vh></v>
+<v t="leo.20181029094538.10" a="E"><vh>W13</vh>
+<v t="leo.20181029094538.11"><vh>W13內容</vh></v>
 </v>
-<v t="leo.20181029094538.12" a="E"><vh>W5</vh>
-<v t="leo.20181029094538.13"><vh>W5內容</vh></v>
+<v t="leo.20181029094538.12" a="E"><vh>W14</vh>
+<v t="leo.20181029094538.13"><vh>W14內容</vh></v>
 </v>
-<v t="leo.20181029094538.14" a="E"><vh>W6</vh>
-<v t="leo.20181029094538.15"><vh>W6內容</vh></v>
+<v t="leo.20181029094538.14" a="E"><vh>W15</vh>
+<v t="leo.20181029094538.15"><vh>W15內容</vh></v>
 </v>
-<v t="leo.20181103222459.1" a="E"><vh>W7</vh>
-<v t="leo.20181103222459.2"><vh>W7內容</vh></v>
+<v t="leo.20181103222459.1" a="E"><vh>W16</vh>
+<v t="leo.20181103222459.2"><vh>W16內容</vh></v>
 </v>
-<v t="leo.20181103222459.3" a="E"><vh>W8</vh>
-<v t="leo.20181103222459.4"><vh>W8內容</vh></v>
+<v t="leo.20181103222459.3" a="E"><vh>W17</vh>
+<v t="leo.20181103222459.4"><vh>W17內容</vh></v>
 </v>
 </v>
 </v>
@@ -228,11 +228,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181029094538.11"># W4
-* 介紹Onshape
-* 說明每周練習進度
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w4.html)
-
+<t tx="leo.20181029094538.11"># W13
+* 將第一版本的手足球繪製，製作出零件表。
+* 手足球人與人模擬部分，因為操作桿的程式沒有限定左右距離，造成操作桿擋件超出部分修正。
 </t>
 <t tx="leo.20181029094538.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -243,12 +241,9 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181029094538.13"># W5
-* 介紹學長所寫的程式講解連桿運動
-* 用eric6開啟學長開發的程式
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w5.html)
-
-</t>
+<t tx="leo.20181029094538.13"># W14
+* 成功將人與人的手足球模擬完成。
+* 參考資料，了解機器模擬，所使用到的感測器為那些，並加以嘗試模擬。</t>
 <t tx="leo.20181029094538.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -258,11 +253,8 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181029094538.15"># W6
-* 隨機抽查網誌是否更新
-* 說明更新版本後的python版本所做到的額外功能
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w6.html)
-</t>
+<t tx="leo.20181029094538.15"># W15
+*將第2版本的手足球(含送球機構)之圖作出其零件表。</t>
 <t tx="leo.20181029094538.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -272,9 +264,11 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20181029094538.3">## 2018Fall 40623212個人簡報
-
+<t tx="leo.20181029094538.3">## 協同產品設計實習
 ### 虎科大機械設計工程系
+### 40623212個人簡報
+
+
 
 &lt;small&gt;
 Created by 魏有泉
@@ -292,10 +286,9 @@ Created by 魏有泉
 
 						
 </t>
-<t tx="leo.20181029094538.5"># W1
-* 建立GitHub資料庫
-* 用python wsgi.py指令編輯近端
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w1.html)
+<t tx="leo.20181029094538.5"># W10
+* 實習任務2練習但因為對自己畫出的構件進行實習任務2模擬時，因為分析部分一直破圖，所以尚未作出。
+* 分配任務:分配到零件表的製作
 </t>
 <t tx="leo.20181029094538.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -306,11 +299,8 @@ Created by 魏有泉
 
 						
 </t>
-<t tx="leo.20181029094538.7"># W2
-* 領取個人期中倉儲
-* 設定分支
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w2.html)
-
+<t tx="leo.20181029094538.7"># W11
+* 使用老師提供的手足球模擬程式，進行Foosball的模擬。
 </t>
 <t tx="leo.20181029094538.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -321,11 +311,8 @@ Created by 魏有泉
 
 						
 </t>
-<t tx="leo.20181029094538.9"># W3
-* 中秋節
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w3.html)
-
-</t>
+<t tx="leo.20181029094538.9"># W12
+* 經過和同學的討論後，知道如何更改WASD鍵，改成使用方向鍵進行操作，進而模擬出2人對打的手足球。</t>
 <t tx="leo.20181103222459.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -335,11 +322,8 @@ Created by 魏有泉
 
 						
 </t>
-<t tx="leo.20181103222459.2"># W7
-* 遇上github的網路裝置與資料庫故障
-* 應對未來沒有github的情況下，使用Fossil SCM
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w7.html)
-</t>
+<t tx="leo.20181103222459.2"># W16
+* 整理自己的倉儲，並將自己所學到的知識整理再網站上。</t>
 <t tx="leo.20181103222459.3">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -349,10 +333,14 @@ Created by 魏有泉
 
 						
 </t>
-<t tx="leo.20181103222459.4"># W8
-* 隨機抽查網誌是否更新
-* 強調當掉我們的並不是別人而是自己，一再提醒自評要給自己一個交代
-* [心得](https://mdecadp2018.github.io/site-40623212/blog/2018-Fall-Project-Blog-w8.html)
+<t tx="leo.20181103222459.4"># 自評成績
+* 學員出席                20%
+* Github 倉儲管理     12%
+* Onshape 協同操作   14%
+* V-rep 模擬               10%
+* 程式開發                 8%
+*共計                          62%
+
 </t>
 </tnodes>
 </leo_file>
